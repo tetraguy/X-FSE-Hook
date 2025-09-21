@@ -99,6 +99,7 @@ This preserves normal sign-in while launching your selected app immediately afte
 * PowerShell 5.1+ (or PowerShell 7 with Windows-compatibility)
 * .NET Framework WinForms assemblies available by default on Windows
 * Run the script as admin to test registry writes
+* Built with SAPIEN PowerShell Studio 2025
 
 ---
 
