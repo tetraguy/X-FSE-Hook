@@ -19,7 +19,7 @@ A tiny Windows helper that lets you **hook a launcher or game shell to start aut
 
 ## 🖼️ UI
 
-<img width="543" height="539" alt="image" src="https://github.com/user-attachments/assets/e68e6939-fefc-4467-9258-41e510d2ef40" />
+<img width="552" height="550" alt="image" src="https://github.com/user-attachments/assets/411b1e91-583f-4ab0-b10d-efc751946c3c" />
 
 ---
 
@@ -87,9 +87,10 @@ This preserves normal sign-in while launching your selected app immediately afte
 
 ## 🧩 Presets
 
-* **Hook Playnite FS** → `Playnite.FullscreenApp.exe`
-* **Hook Steam** → Steam client (Big Picture / BPM successor)
-* **Hook GOG** → GOG Galaxy
+* **Playnite Full Screen** → `Playnite.FullscreenApp.exe`
+* **Steam/BigPicture** → Steam client (Big Picture / BPM successor)
+* **LaunBox/BigBox** → GOG Galaxy
+* **GOG Galaxy** → GOG Galaxy
 * **Default** → Restore Windows default (`userinit.exe,` only)
 
 ---
